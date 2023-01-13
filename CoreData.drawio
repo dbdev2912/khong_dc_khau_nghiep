@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-01-13T03:54:40.075Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="Kvyunao8AffLm0U3pwXI" version="20.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-13T03:56:55.594Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="MsdCf3JqMAuO59maeh5G" version="20.8.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2441" dy="2153" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2199" dy="2005" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="a6kdlHemP9lZWiBOAB_l-135" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="680" y="230" width="380" height="580" as="geometry" />
+          <mxGeometry x="720" y="230" width="350" height="580" as="geometry" />
         </mxCell>
         <mxCell id="a6kdlHemP9lZWiBOAB_l-100" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="720" y="-480" width="670" height="680" as="geometry" />
@@ -360,7 +360,7 @@
           <mxGeometry x="720" y="70" width="310" height="130" as="geometry" />
         </mxCell>
         <mxCell id="a6kdlHemP9lZWiBOAB_l-113" value="APIs" style="swimlane;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="740" y="270" width="200" height="250" as="geometry" />
+          <mxGeometry x="780" y="270" width="200" height="250" as="geometry" />
         </mxCell>
         <mxCell id="a6kdlHemP9lZWiBOAB_l-117" value="api_titile" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="a6kdlHemP9lZWiBOAB_l-113">
           <mxGeometry y="60" width="200" height="30" as="geometry" />
@@ -378,7 +378,7 @@
           <mxGeometry y="180" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="a6kdlHemP9lZWiBOAB_l-123" value="API_TABLEs" style="swimlane;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="740" y="580" width="200" height="110" as="geometry" />
+          <mxGeometry x="780" y="580" width="200" height="110" as="geometry" />
         </mxCell>
         <mxCell id="a6kdlHemP9lZWiBOAB_l-124" value="table_id" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="a6kdlHemP9lZWiBOAB_l-123">
           <mxGeometry y="60" width="200" height="30" as="geometry" />
@@ -408,13 +408,13 @@
         <mxCell id="a6kdlHemP9lZWiBOAB_l-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="a6kdlHemP9lZWiBOAB_l-118" target="a6kdlHemP9lZWiBOAB_l-125">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="960" y="315" />
-              <mxPoint x="960" y="633" />
+              <mxPoint x="1000" y="315" />
+              <mxPoint x="1000" y="633" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="a6kdlHemP9lZWiBOAB_l-137" value="&lt;h1&gt;UNIQUE_STRING&lt;/h1&gt;&lt;div&gt;Là chuỗi đặt biệt được định nghĩa như một hằng bởi server và được dùng trong những URL thuộc nhóm UD để phân biệt với&lt;/div&gt;&lt;div&gt;những URL thuộc nhóm định nghĩa sẳn bởi server&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="680" y="700" width="350" height="100" as="geometry" />
+          <mxGeometry x="720" y="700" width="350" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
