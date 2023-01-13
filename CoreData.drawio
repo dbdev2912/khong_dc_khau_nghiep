@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-13T02:47:07.076Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="ozoVSCWlqPKs8qrR4Qzk" version="20.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-13T03:21:05.785Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="KIVjFuuRTux5nL-PKiZ_" version="20.8.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1970" dy="1866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -368,6 +368,9 @@
         </mxCell>
         <mxCell id="a6kdlHemP9lZWiBOAB_l-103" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;NGƯỜI DÙNG VÀ NHỮNG CHIẾC QUYỀN MƠ HỒ&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="720" y="-480" width="670" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a6kdlHemP9lZWiBOAB_l-104" value="&lt;h1&gt;Ghi chú&lt;/h1&gt;&lt;p&gt;Phân quyền trên toàn bảng hoặc&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;phân quyền trên từng trường tùy thuộc vào tính đặc thù của logic bảng.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="720" y="110" width="310" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
